@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Li Xiaobin's github stats](https://github-readme-stats.vercel.app/api?username=Xiaobin0860&theme=gruvbox)](https://xiaobin0860.github.io/)
+[![Li Xiaobin's github stats](https://github-readme-stats.vercel.app/api?username=Xiaobin0860&theme=merko&show_icons=true)](https://xiaobin0860.github.io/)
 
 <!--
 **Xiaobin0860/Xiaobin0860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
